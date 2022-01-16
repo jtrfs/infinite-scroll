@@ -1,0 +1,11 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "The goal of this project is to show how we can implement infinite scroll functionality.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jtrfs",
+  "license": "ISC"
+}
